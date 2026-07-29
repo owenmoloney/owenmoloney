@@ -4,7 +4,7 @@
 
 #### These are Some Technical Skills I would like to highligh:
 
-* **Languages:** `JavaScript`, `TypeScript`, `Java`, `Python`, `SQL`, `C++`, `HTML/CSS`
+* **Languages:** `JavaScript`, `TypeScript`, `Java`, `Python`, `SQL`, `C++`, `HTML/CSS`, 'Go'
 * **Frontend:** `React`, `Vue.js`, Responsive UI/UX
 * **Backend:** `Node.js`, `Express.js`, REST API Design, Microservices Architecture
 * **Databases:** `MongoDB`, `Firebase Firestore`, `Supabase`
