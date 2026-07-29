@@ -1,8 +1,8 @@
-### 👋 Hi, I'm Owen Moloney
+### Hello, I'm Owen Moloney
 
 🚀 Computer Science graduate from Fordham University (May 2026) with a focus on full-stack development, API design, and applied authentication/security practices. I like taking a feature from database schema to shipped UI, and I've done that end-to-end at two startups.
 
-#### 🛠️ Technical Skills
+#### These are Some Technical Skills I would like to highligh:
 
 * **Languages:** `JavaScript`, `TypeScript`, `Java`, `Python`, `SQL`, `C++`, `HTML/CSS`
 * **Frontend:** `React`, `Vue.js`, Responsive UI/UX
@@ -12,13 +12,13 @@
 * **Auth & Security:** `OAuth 2.0 (PKCE)`, `Firebase Auth`, Role-Based Access Control, `JWT`
 * **Practices:** `Agile`, `OOP`, REST APIs, CI/CD
 
-#### 📜 Certifications
+#### Certifications that I have completed, there are more to come !
 
 * `JPMorganChase Software Engineering Job Simulation` — Forage (July 2026) — Kafka-integrated Spring Boot microservice, JPA/H2 persistence, external REST API integration
 
-#### 💼 Experience
+#### Professional Work Experience
 
-**The Social Company (Early-Stage Startup) – Full Stack Software Engineer**
+**The Social Company – Full Stack Software Engineer**
 Dec 2025 – June 2026 | New York, NY
 
 * Built a full-stack AI-powered personal assistant, integrating Twilio SMS, Google Calendar OAuth, Grok AI, and Stripe/Plaid APIs
@@ -42,7 +42,7 @@ May 2024 – Aug 2024 | New York, NY
 
 * Completed 8 applied backend training projects covering OOP, data structures, and system design
 
-#### 🧠 Notable Projects
+#### Notable Projects
 
 **[resume-classifier](https://github.com/owenmoloney/resume-classifier)**
 `Python` `scikit-learn` `TF-IDF` `Naive Bayes`
