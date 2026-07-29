@@ -1,6 +1,6 @@
 ### Hello, I'm Owen Moloney
 
-🚀 Computer Science graduate from Fordham University (May 2026) with a focus on full-stack development, API design, and applied authentication/security practices. I like taking a feature from database schema to shipped UI, and I've done that end-to-end at two startups.
+Computer Science graduate from Fordham University (May 2026) with a focus on full-stack development, API design, and applied authentication/security practices. I like taking a feature from database schema to shipped UI, and I've done that end-to-end at two startups.
 
 #### These are Some Technical Skills I would like to highligh:
 
